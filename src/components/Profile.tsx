@@ -9,7 +9,7 @@ export function Profile() {
     <div className={styles.profileContainer}>
       <img src="https://source.unsplash.com/random" alt="Thiago Alves"/>
       <div>
-        <strong>Thiago Alves</strong>
+        <strong>Uma pessoa muito bonita</strong>
         <p>
           <img src="icons/level.svg" alt="Level Up Icon"/>
           Level {level}
